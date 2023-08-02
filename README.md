@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="170" src="https://media.tenor.com/cUeBxzuoQV8AAAAi/sdg.gif"  />
+  <img height="125" src="https://media.tenor.com/cUeBxzuoQV8AAAAi/sdg.gif"  />
 </div>
 
 ###
@@ -14,7 +14,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
 </div>
 
 ###
