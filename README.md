@@ -100,6 +100,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HeatherAlexandra/HeatherAlexandra/output/snake.svg" alt="Snake animation" />
+ <!--Sneek Gusano-->
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ###
