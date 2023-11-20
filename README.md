@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h1 align="center">hey there, im heather👋</h1>
+<h1 align="center">hey there, I’m Heather Valencia 👋</h1>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm Heather Valencia from Peru<br><br>- 🔭 I’m studying Systems Engineering at UPC<br>- 📚 I'm currently learning frontent develpment<br>- ⚡ In my free time I like to learn new languages</p>
+<p align="left">I'm from Peru<br><br>- 🔭 I’m studying Systems Engineering at UPC<br>- 📚 I'm currently learning frontent develpment<br>- ⚡ In my free time I like to learn new languages</p>
 
 ###
 
