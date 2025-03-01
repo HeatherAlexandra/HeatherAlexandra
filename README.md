@@ -1,4 +1,4 @@
-<br clear="both">
+ <br clear="both">
 
 <div align="center">
   <img height="125" src="https://media.tenor.com/cUeBxzuoQV8AAAAi/sdg.gif"  />
@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h1 align="center">hey there, I’m Heather Valencia 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm from Peru<br><br>- 🔭 I’m studying Systems Engineering at UPC<br>- 📚 I'm currently learning frontent develpment<br>- ⚡ In my free time I like to learn new languages</p>
+<p align="left">I'm Heather Valencia from Peru<br><br>- 🔭 I’m studying Systems Engineering at UPC and Industrial Engineering at Arizona University <br>- ⚡ In my free time I like to learn new languages</p>
 
 ###
 
